@@ -9,4 +9,4 @@ code to init todo table
     created_at timestamp without time zone,
     CONSTRAINT todo_pkey PRIMARY KEY (id),
 	 CONSTRAINT todo_id_key UNIQUE (id)
-)```
+)
